@@ -4,6 +4,10 @@
 
 <a href="https://docs.google.com/presentation/d/1E4WPW5RbMMUwn5i-jTLm4zug5bwnIGh18U2CNc6fZqE/edit?usp=sharing"><img src="https://img.shields.io/static/v1?label=Google+Slides&message=Click+here+to+view+the+slides+for+this+session&color=%23FBBC04&style=for-the-badge&logo=googleslides&logoColor=%23FBBC04" alt="Google Slides - Click here to view slides for this session"></a>
 
+## Book
+
+<a href="https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/"><img src="https://img.shields.io/static/v1?label=Book&message=Click+here+to+view+the+relevant+HSMA+book&color=%23782828&style=for-the-badge&logo=mdbook" alt="Book - Click here to view the relevant HSMA book"></a>
+
 ## Exercises
 
 The notebooks in the `exercises` folder can be downloaded and run locally if you have Python installed.
