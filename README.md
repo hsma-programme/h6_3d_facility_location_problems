@@ -6,6 +6,10 @@
 
 <a href="https://docs.google.com/presentation/d/1YLGLE3DnzCVv9OnAimtM7iueAsXy_edXrL67D6DbbyA/edit?usp=sharing"><img src="https://img.shields.io/static/v1?label=Google+Slides&message=Click+here+to+view+bonus+slides+on+evolutionary+algorithms&color=%23FBBC04&style=for-the-badge&logo=googleslides&logoColor=%23FBBC04" alt="Google Slides - Click here to view bonus slides (evolutionary algorithms) for this session"></a>
 
+## Lecture Recording
+
+<a href="https://youtu.be/UJdv0HIuG6s"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
 ## Book
 
 <a href="https://hsma-programme.github.io/hsma6_geographic_optimisation_and_visualisation_book/"><img src="https://img.shields.io/static/v1?label=Book&message=Click+here+to+view+the+relevant+HSMA+book&color=%23782828&style=for-the-badge&logo=mdbook" alt="Book - Click here to view the relevant HSMA book"></a>
