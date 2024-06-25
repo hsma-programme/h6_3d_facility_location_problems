@@ -17,7 +17,9 @@ Alternatively, you can run each exercise on **Google Colab**, a free online plat
 Using the links below will open a fresh copy of the notebook to work on - your changes will not be visible to anyone else. However, if you want to be able to refer back to your version of the notebook in future, make sure you click **'File --> Save to Drive'**. 
 Your changes will then be saved to your own account, and you can access your edited copy of the notebook from https://colab.research.google.com/.
 
-Open Exercise 1 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_3d_facility_location_problems/blob/main/h6_3d_facility_location_problems/exercises_colab/HSMA 3D Exercise 2 - Facility Location Problems - Colab.ipynb">
+Exercise 1 is a short exercise without Python.
+
+Open Exercise 2 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_3d_facility_location_problems/blob/main/h6_3d_facility_location_problems/exercises_colab/HSMA 3D Exercise 2 - Facility Location Problems - Colab.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -33,7 +35,10 @@ The **challenge** section contains exercises that may go beyond what is covered 
 
 ## Solutions
 
-Solutions will be uploaded on 26/06/2024
+Solution notebooks are available in the **solutions** folder, or can be opened in Colab. 
+
+Open Exercise 2 SOLUTION in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_3d_facility_location_problems/blob/main/h6_3d_facility_location_problems/solutions/HSMA 3D Exercise 2 - Facility Location Problems - Solution.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 ## Learning Objectives
 
